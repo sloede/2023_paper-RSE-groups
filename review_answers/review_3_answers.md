@@ -47,7 +47,7 @@ TODO
 > As a reader, I would benefit if the introduction finished with a paragraph providing an outline of the relatively long article.
 
 **Answer:**
-TODO
+Thank you for this suggestion. We have added a paragraph at the end of the introduction that outlines the structure of the manuscript.
 
 ---
 
