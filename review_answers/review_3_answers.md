@@ -75,6 +75,8 @@ In addition, we replaced the abbreviations that were only used once.
 > You might want to invest in a native English speaker editing the language. Spelling and grammar are correct. However: "Similarly an off-boarding process can help to make sure that all acquired knowledge that is relevant to the institution is passed on to someone else, even if possibly not within the specific research group." (Page 8) both lacks a comma after 'similarly' and the last subsentence is only understandable after translating it back to German. A more English version would be '… though not necessarily within the specific research group.'
 
 **Answer:**
-TODO
+Thank you for the suggestion. We have used your proposed rephrasing of the sentence on page
+8, including the missing comma. Furthermore, we have carefully proofread the entire
+manuscript to a) add missing commas and remove superfluous ones, and b) rephrase sentences with German-influenced phrasing.
 
 ---
